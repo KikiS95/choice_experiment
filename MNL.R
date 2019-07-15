@@ -6,3 +6,4 @@
 #this code is not working and comes up with the following error
 #Error in solve.default(H, g[!fixed]) : 
 # system is computationally singular: reciprocal condition number = 1.55655e-22
+
